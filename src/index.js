@@ -41,7 +41,7 @@ const Title = () => {
 
 /* Author Component */
 const Author = () => {
-  return <h4 style={}>Jay Shetty</h4>;
+  return <h4 style={{}}>Jay Shetty</h4>;
 };
 
 reactDom.render(<BookList />, document.getElementById("root"));
